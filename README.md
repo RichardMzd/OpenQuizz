@@ -1,2 +1,2 @@
 # OpenQuizz
-Small quiz app from openclassroms courses
+Small quizz app from openclassroms courses
